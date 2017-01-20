@@ -1,0 +1,50 @@
+body{
+  background-color:#8D6E63;
+}
+.navbarcolor{
+  background-color:#5D4037;
+}
+.container{
+  width:900px;
+}
+#intro-text{
+  width:600px;
+  float:left;
+  height:225px;
+}
+#intro-pic{
+  width:100px;
+  float:left;
+  height:225px;
+}
+p{
+  font-family:Monospace;
+  font-size:20px;
+}
+.intro{
+  background-color:#BCAAA4;
+  color:#000;
+  padding:70px;
+}
+.half{
+  width:50%;
+}
+.content{
+  background-color:#A1887F;
+  color:#fff;
+  padding:40px;
+}
+.title{
+  font-weight:bold;
+  fond-size:40px;
+}
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  margin-top: 8px;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 50%;
+}
