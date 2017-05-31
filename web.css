@@ -1,21 +1,26 @@
+@media (max-width: 600px) {
+  p{
+    font-size: 30px;
+  }
+}
 body{
   background-color:#8D6E63;
 }
 .navbarcolor{
   background-color:#5D4037;
 }
-.container{
-  width:900px;
+.container-fluid{
+  width:500px;
 }
 #intro-text{
-  width:600px;
-  float:left;
+  width:400px;
   height:225px;
 }
 #intro-pic{
   width:100px;
-  float:left;
   height:225px;
+  padding-top: 20PX;
+  margin-bottom: 45PX;
 }
 p{
   font-family:Monospace;
@@ -24,7 +29,7 @@ p{
 .intro{
   background-color:#BCAAA4;
   color:#000;
-  padding:70px;
+  padding:40px;
 }
 .half{
   width:50%;
@@ -32,7 +37,7 @@ p{
 .content{
   background-color:#A1887F;
   color:#fff;
-  padding:40px;
+  padding:30px;
 }
 .title{
   font-weight:bold;
